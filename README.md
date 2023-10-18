@@ -20,7 +20,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
  💻 &emsp; Been programming since 8th grade. <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 🎩 &emsp; Passionate about white hat hacking 
+ 🎩 &emsp; Passionate about Security
 </p>
 
 <br/>
